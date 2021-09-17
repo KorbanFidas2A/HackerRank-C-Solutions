@@ -1,2 +1,2 @@
-# Praktikum-Alstrukdat
-nilainya gak full score tapi buat disimpen aja buat belajar individu sama referensi C
+# HackerRank Problem Solving-Solutions
+References to HackerRank problem
